@@ -16,8 +16,7 @@ echo
 echo -e "\e[1;33m[+] \e[1;32mTool Is Updating...." $r
 echo
 
-git clone
- 
+git clone https://github.com/MrDTZ/Infomer.git
 echo
 
 echo -e "\e[1;33m[+] \e[1;35m Done !"
