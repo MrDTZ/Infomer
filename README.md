@@ -4,7 +4,7 @@
 
 - [+] Created By Mr.Devil DTZ Admin Team
 
-# Install ofr Termux
+# Install for Termux
 
 - $ pkg update -y
 
