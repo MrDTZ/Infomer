@@ -1,10 +1,10 @@
-# Infomer
+# 😈 Infomer 😈
 
-- [+] This is an web scaning tool
+- 📌 This is an web scaning tool
 
-- [+] Created By Mr.Devil DTZ Admin Team
+- 📌 Created By Mr.Devil DTZ Admin Team
 
-# Install for Termux
+# 📥 Install for Termux
 
 - $ pkg update -y
 
@@ -20,7 +20,7 @@
 
 - $ bash infomer.sh
 
-# Install for kali Linux
+# 📥 Install for kali Linux
 
 - $ sudo apt update
 
@@ -33,4 +33,4 @@
 - $ bash infomer.sh
 
 
-# Have a Good Day !
+# 🙋‍♂️ Have a Good Day !
